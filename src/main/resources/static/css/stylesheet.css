@@ -1,0 +1,6 @@
+@charset "ISO-8859-1";
+body{
+	background: url('/images/hoppitalimg2.jpg')fixed;
+	background-size:none;
+	background-origin:inherit;
+}
